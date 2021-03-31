@@ -32,7 +32,7 @@ DATABASE=UsersRoles\
 
 An orm.config.json is added, you only need to change the username and password of database instance
 
-## Step 4: Into the folder with the name `api-test-nestjs-clean-code` you need to do the following
+## Step 4: Into the folder of the program you need to do the following
 
 1. npm install
 2. npm run migration:run (to run the migration generated or `npm run migration:generate <name of migration>` to generate it again, I suggest deleting previous migrations)
